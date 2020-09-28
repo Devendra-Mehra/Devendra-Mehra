@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/devendramehra/">
   <img align="left" alt="Devendra's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Devendra-Mehra">
-  <img align="left" alt="Devendra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.facebook.com/TheDevendra4/">
   <img align="left" alt="Devendra's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />
 </a>

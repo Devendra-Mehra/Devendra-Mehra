@@ -18,7 +18,7 @@
 
 
 
-### I am Devendra Mehra
-- Android Developer, Software Engineer & Tech Enthusiast, Open Source Contributor.
+### I am Devendra Mehra (Software Engineer)
+- An Android Developer And Tech Enthusiast, Open Source Contributor.
 - I love to learn and contribute in any and every possible way.
 - Feel free to reach out to me anytime, anywhere! I'm responsive on all my Social Profiles.
